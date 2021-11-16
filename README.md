@@ -1,4 +1,4 @@
-<h1 align="center"><img src="file/wave.gif" width="42px"> Hey, Myself Md. Abdul Kalam Shekh </h1>
+<h1 align="center"> width="42px"> Hey, Myself Md. Abdul Kalam Shekh </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul97233&label=Profile%20views&color=0e75b6&style=flat-square" alt="Abdul" /> </p>
 <p align="center"><strong>Job :</strong> 👨‍🎓 Student.
 <br>I'm working on some hobby projects and learning new stuffs!</p>
@@ -11,7 +11,6 @@
 </p>
 <br>
 <h2 align="center">⚡️ About Me</h2>
-    <a href="https://1danish-00.github.io/2048/"><img align="right" height="150px" width="150px" src="file/2048-self-solver.gif" style="right:0px"></a>
 <ul>
     <li>🔭 I’m currently working on Some Telegram Bots & Apis.
     <li>🧐 Currently Learning <strong>JS</strong> & <strong>JAVA</strong>.

@@ -12,7 +12,7 @@
 <br>
 <h2 align="center">⚡️ About Me</h2>
 <ul>
-    <li>🔭 I’m currently working on Some Telegram Bots,Facebook Bots & Apis.
+    <li>🔭 I’m currently working on Some Telegram Bots, Facebook Bots & Apis.
     <li>🧐 Currently Learning <strong>JS</strong> & <strong>JAVA</strong>.
     <li>👨‍💻 Mostly Projects Are Private 😅.
     <li>💬 Generally Available on  <strong><a href="#-contact-me" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>

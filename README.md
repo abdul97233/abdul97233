@@ -57,6 +57,21 @@
     <a href="https://www.termux.com/"><img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt=""></a>
 
 </p>
+
+<br/>
+
+<a href="https://github.com/abdul97233">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdul97233&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul97233&theme=buefy&layout=compact" />
+</a>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdul97233&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+<br/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&t=u)
+
 <br>
 <h2 align="center">📈 My Github Stats! </h2>
 <p align="center">

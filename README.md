@@ -6,8 +6,8 @@
 <h2 align="center">📞 Contact Me</h2>
 <p align="center">
     <a href="https://t.me/abdul97233"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" srcset=""></a>
-    <a href="https://abdul@ntmpro.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
-    <a href="https://abdul@ntmpro.net"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="" srcset=""></a>
+    <a href="https://contact@abdul97233.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
+    <a href="https://contact@abdul97233.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="" srcset=""></a>
 </p>
 <br>
 <h2 align="center">⚡️ About Me</h2>
@@ -16,7 +16,7 @@
     <li>🧐 Currently Learning <strong>JS</strong> & <strong>JAVA</strong>.
     <li>👨‍💻 Mostly Projects Are Private 😅.
     <li>💬 Generally Available on  <strong><a href="#-contact-me" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
-    <li>🤓 Ready To Help Others.
+    <li>🤓 Always Ready To Help Others.
 </ul>
 <br>
 <h2 align="center">Languages / Frameworks/ Tools</h2>

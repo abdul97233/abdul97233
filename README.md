@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<!-- ================= HERO BANNER ================= -->
+<!-- ================ HERO BANNER ================ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:070B24,35:102A56,70:0077B6,100:00D4FF&text=ABDUL%20KALAM%20SHEKH&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20IT%20INFRASTRUCTURE%20%7C%20CYBERSECURITY&descSize=14&descAlignY=58&animation=fadeIn" alt="Abdul Kalam Shekh" />
 
@@ -9,7 +9,33 @@
 
 <br/>
 
-<!-- ================= PROFILE COUNTER ================= -->
+<!-- ================ SOCIAL LINKS ================ -->
+
+<a href="https://github.com/abdul97233">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.facebook.com/abdul97233">
+<img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/abdul97233/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.tiktok.com/@abdul97233">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+<a href="https://www.linkedin.com/in/abdul97233/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.snapchat.com/add/abdul97233">
+<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
+</a>
+<a href="https://abdul97233.com.np">
+<img src="https://img.shields.io/badge/Website-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+
+<br/><br/>
+
+<!-- ================ PROFILE COUNTERS ================ -->
 
 <img src="https://komarev.com/ghpvc/?username=abdul97233&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge&base=3617" alt="Profile Views" />
 
@@ -69,31 +95,39 @@ print(me.mindset())
 
 ## 🛠️ Technology Stack
 
+<div align="center">
+
 ### Programming Languages
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" alt="Programming Languages" />
+
+<br/><br/>
 
 ### Frontend Development
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,sass" />
-</div>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,sass" alt="Frontend Technologies" />
+
+<br/><br/>
 
 ### Backend & Databases
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" />
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" alt="Backend and Databases" />
+
+<br/><br/>
 
 ### Infrastructure & Developer Tools
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,git,github,vscode,postman,nginx" />
-</div>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,git,github,vscode,postman,nginx" alt="Infrastructure and Developer Tools" />
+
+<br/><br/>
 
 ### Networking & Cybersecurity
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" alt="Linux and Security Tools" />
+
+</div>
+
+**Areas of Interest**
 
 - CCNA networking concepts.
 - Network fundamentals and troubleshooting.
@@ -117,7 +151,7 @@ Telegram bot developed using Python to process TeraBox links and deliver downloa
 **Technologies:** Python, Telethon, Pyrogram, Redis.
 
 <a href="https://github.com/abdul97233/TeraBox-Downloader-Bot">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Project" />
 </a>
 
 </td>
@@ -131,7 +165,7 @@ Python-based chatbot project exploring automated messaging and interactions.
 **Technologies:** Python, Automation.
 
 <a href="https://github.com/abdul97233/fb-chat-bot">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Project" />
 </a>
 
 </td>
@@ -147,7 +181,7 @@ Python automation project for automating mouse interactions.
 **Technologies:** Python, Desktop Automation.
 
 <a href="https://github.com/abdul97233/Auto_clicker_bot">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Project" />
 </a>
 
 </td>
@@ -159,7 +193,7 @@ Python automation project for automating mouse interactions.
 Explore my repositories for more development projects, scripts, experiments and automation tools.
 
 <a href="https://github.com/abdul97233?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github" alt="Explore Projects" />
 </a>
 
 </td>
@@ -190,12 +224,18 @@ Explore my repositories for more development projects, scripts, experiments and 
 
 ## 🌱 Currently Exploring
 
-- Advanced React and modern frontend architecture.
-- Backend development with Node.js and Python.
-- Linux server administration and automation.
-- Networking and infrastructure technologies.
-- Cybersecurity and practical security concepts.
-- AI-powered developer tools.
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| 💻 Development | React, Node.js, Python |
+| 🗄️ Backend | APIs, Databases, Automation |
+| 🐧 Infrastructure | Linux, Ubuntu, Docker |
+| 🌐 Networking | Routing, Switching, CCNA |
+| 🔐 Security | Cybersecurity, Network Security |
+| 🤖 AI | AI-powered Developer Tools |
+
+</div>
 
 ---
 
@@ -205,47 +245,29 @@ Explore my repositories for more development projects, scripts, experiments and 
 
 ### One Username. Multiple Platforms.
 
-<img src="https://img.shields.io/badge/MY_USERNAME-@abdul97233-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/MY_USERNAME-@abdul97233-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="My Username" />
 
 <br/><br/>
 
-<!-- SOCIAL MEDIA -->
+**GitHub:** [@abdul97233](https://github.com/abdul97233)
 
-<a href="https://github.com/abdul97233">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+**Facebook:** [@abdul97233](https://www.facebook.com/abdul97233)
 
-<a href="https://www.facebook.com/abdul97233">
-<img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
+**Instagram:** [@abdul97233](https://www.instagram.com/abdul97233/)
 
-<a href="https://www.instagram.com/abdul97233/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+**TikTok:** [@abdul97233](https://www.tiktok.com/@abdul97233)
 
-<a href="https://www.tiktok.com/@abdul97233">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
+**LinkedIn:** [abdul97233](https://www.linkedin.com/in/abdul97233/)
+
+**Snapchat:** [@abdul97233](https://www.snapchat.com/add/abdul97233)
+
+**Website:** [abdul97233.com.np](https://abdul97233.com.np)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abdul97233/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://abdul97233.com.np">
-<img src="https://img.shields.io/badge/Website-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
-</a>
-
-<a href="https://www.snapchat.com/add/abdul972334">
-<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
-</a>
-
-<br/><br/>
-
 ### X (Twitter)
 
-<img src="https://img.shields.io/badge/X%20(Twitter)-@abdul97233-555555?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X%20(Twitter)-@abdul97233-555555?style=for-the-badge&logo=x&logoColor=white" alt="X Username" />
 
 <sub>Account currently suspended.</sub>
 
@@ -259,7 +281,7 @@ Explore my repositories for more development projects, scripts, experiments and 
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<!-- ================ FOOTER ================ -->
 
 <div align="center">
 

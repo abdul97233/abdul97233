@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<!-- ================ HERO BANNER ================ -->
+<!-- ================= HERO BANNER ================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:070B24,35:102A56,70:0077B6,100:00D4FF&text=ABDUL%20KALAM%20SHEKH&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20IT%20INFRASTRUCTURE%20%7C%20CYBERSECURITY&descSize=14&descAlignY=58&animation=fadeIn" alt="Abdul Kalam Shekh" />
 
@@ -9,38 +9,20 @@
 
 <br/>
 
-<!-- ================ SOCIAL LINKS ================ -->
+<!-- ================= TELEGRAM CONTACT ================= -->
 
-<a href="https://github.com/abdul97233">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.facebook.com/abdul97233">
-<img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.instagram.com/abdul97233/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.tiktok.com/@abdul97233">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-<a href="https://www.linkedin.com/in/abdul97233/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.snapchat.com/add/abdul97233">
-<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
-</a>
-<a href="https://abdul97233.com.np">
-<img src="https://img.shields.io/badge/Website-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+<a href="https://t.me/abdul97233">
+<img src="https://img.shields.io/badge/LET'S_TALK_ON_TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact me on Telegram" />
 </a>
 
 <br/><br/>
 
-<!-- ================ PROFILE COUNTERS ================ -->
+<!-- ================= PROFILE COUNTERS ================= -->
 
 <img src="https://komarev.com/ghpvc/?username=abdul97233&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge&base=3617" alt="Profile Views" />
 
 <a href="https://github.com/abdul97233?tab=followers">
-<img src="https://img.shields.io/github/followers/abdul97233?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="Followers" />
+<img src="https://img.shields.io/github/followers/abdul97233?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717&cacheSeconds=300" alt="GitHub Followers" />
 </a>
 
 <a href="https://github.com/abdul97233?tab=repositories">
@@ -123,7 +105,7 @@ print(me.mindset())
 
 ### Networking & Cybersecurity
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" alt="Linux and Security Tools" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" alt="Linux and Security" />
 
 </div>
 
@@ -190,7 +172,7 @@ Python automation project for automating mouse interactions.
 
 ### 🌐 More Projects
 
-Explore my repositories for more development projects, scripts, experiments and automation tools.
+Explore my repositories for development projects, scripts, experiments and automation tools.
 
 <a href="https://github.com/abdul97233?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github" alt="Explore Projects" />
@@ -239,49 +221,39 @@ Explore my repositories for more development projects, scripts, experiments and 
 
 ---
 
-## 🌐 Find Me Across the Internet
+## ✈️ Let's Talk on Telegram
 
 <div align="center">
 
-### One Username. Multiple Platforms.
-
-<img src="https://img.shields.io/badge/MY_USERNAME-@abdul97233-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="My Username" />
+<img src="https://img.shields.io/badge/PREFERRED_CONTACT-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Preferred Contact Telegram" />
 
 <br/><br/>
 
-**GitHub:** [@abdul97233](https://github.com/abdul97233)
+### I'm mostly available on Telegram.
 
-**Facebook:** [@abdul97233](https://www.facebook.com/abdul97233)
-
-**Instagram:** [@abdul97233](https://www.instagram.com/abdul97233/)
-
-**TikTok:** [@abdul97233](https://www.tiktok.com/@abdul97233)
-
-**LinkedIn:** [abdul97233](https://www.linkedin.com/in/abdul97233/)
-
-**Snapchat:** [@abdul97233](https://www.snapchat.com/add/abdul97233)
-
-**Website:** [abdul97233.com.np](https://abdul97233.com.np)
+For project discussions, collaboration, technical conversations or opportunities, feel free to reach out.
 
 <br/>
 
-### X (Twitter)
-
-<img src="https://img.shields.io/badge/X%20(Twitter)-@abdul97233-555555?style=for-the-badge&logo=x&logoColor=white" alt="X Username" />
-
-<sub>Account currently suspended.</sub>
+<a href="https://t.me/abdul97233">
+<img src="https://img.shields.io/badge/MESSAGE_ME-@abdul97233-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message Abdul on Telegram" />
+</a>
 
 <br/><br/>
 
-**Open to interesting projects, collaboration and opportunities.**
+**Username:** `@abdul97233`
 
-*Have an idea? Let's build something useful.*
+**No phone number or personal email published here.**
+
+<br/>
+
+*Let's connect, exchange ideas and build something useful.*
 
 </div>
 
 ---
 
-<!-- ================ FOOTER ================ -->
+<!-- ================= FOOTER ================= -->
 
 <div align="center">
 

@@ -22,7 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=abdul97233&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge&base=3617" alt="Profile Views" />
 
 <a href="https://github.com/abdul97233?tab=followers">
-<img src="https://img.shields.io/github/followers/abdul97233?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717&cacheSeconds=300" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub" />
 </a>
 
 <a href="https://github.com/abdul97233?tab=repositories">
